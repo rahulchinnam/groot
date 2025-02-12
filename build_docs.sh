@@ -1,5 +1,4 @@
 #!/bin/bash
-#********************************************************
 # Compilation code for the JNP Library project.
 # To compile and deploy the library use the command
 # >./build.sh -b
